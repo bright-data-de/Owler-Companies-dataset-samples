@@ -1,104 +1,103 @@
 # Owler Companies Dataset Sample
 
-<h2>A sample dataset of 1,030 records</h2>
+<h2>Ein Beispieldatensatz mit 1.030 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Owler-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Owler Companies Dataset Sample** includes **1,030 records** and was extracted using the **Bright Data API**.
+Dieses **Owler Companies Dataset Sample** umfasst **1.030 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `companyId` | A unique identifier for each company. |
-| `ownership` | Specifies whether a company is privately or publicly owned. |
-| `industrySectors` | Lists the industry sectors the company operates in. |
-| `revenue` | Annual revenue of the company in USD. |
-| `founded` | Year the company was established. |
-| `companyName` | The official name of the company. |
-| `country` | The country where the company is based. |
-| `employeeCount` | Total number of employees working at the company. |
-| `totalAcquisitions` | The cumulative number of acquisitions made by the company. |
-| `zipcode` | Postal code of the company's primary location. |
-| `website` | Official company website URL. |
-| `domainName` | Domain name of the company's website. |
-| `phoneNumber` | Contact phone number of the company. |
-| `completenessScore` | Score indicating the completeness of the company's profile. |
-| `cpLink` | Link to the company's profile on Owler. |
-| `followers` | Number of followers the company has on Owler. |
-| `shortName` | A shortened version of the company name. |
-| `status` | Current operational status of the company. |
-| `summarySection` | A brief summary about the company. |
-| `teamName` | Name of the team or department within the company. |
-| `totalFunding` | Total funding received by the company in USD. |
-| `stripe` | Miscellaneous data related to the company. |
-| `totalCompetitors` | Number of companies considered as competitors. |
-| `totalFundings` | Total number of funding rounds the company has been through. |
-| `totalInvestments` | Total number of investments made by the company. |
-| `employeeRange` | Range indicating the size of the company's workforce. |
-| `revenueRange` | Range indicating the company's revenue. |
-| `city` | City where the company's headquarters is located. |
-| `state` | State or region where the company operates. |
-| `url` | URL for the company's main webpage. |
-| `street1Address` | Primary street address of the company. |
-| `CGSectionSEOText` | SEO text associated with the company's CG section. |
-| `description` | Detailed description of the company and its operations. |
-| `isTopicPage` | Boolean indicating if the page is a topic page. |
-| `industries` | Industries the company is involved in. |
-| `sicCode` | Standard Industrial Classification code of the company. |
-| `isSEOEligible` | Boolean indicating if the company is eligible for SEO. |
-| `cgCompaniesCount` | Count of companies in the same category or group. |
-| `formattedEmployeeCount` | Formatted representation of employee count for readability. |
-| `formattedFollower` | Formatted number of followers for display purposes. |
-| `formattedFunding` | Formatted representation of total funding. |
-| `formattedRevenue` | Formatted representation of the company's revenue. |
-| `exchange` | Stock exchange where the company is listed, if applicable. |
-| `ticker` | Stock ticker symbol of the company. |
-| `FundingSectionSEOText` | SEO text associated with the funding section of the company. |
-| `recommendedCompanies` | List of companies recommended for comparison or interest. |
-| `seoTextMap` | Mapping of SEO text elements for the company. |
-| `cg` | Company group details or classification. |
-| `ceoDetail` | Details about the company's CEO. |
-| `companies` | Other companies related or linked to the primary company. |
-| `companyAcquisitionInfo` | Details about acquisitions made by the company. |
-| `companyFundingInfo` | Information on the company's funding history and rounds. |
-| `fundingChartInfo` | Visual or chart-based information on funding. |
-| `leaderShipDetails` | Information about the company's leadership team. |
-| `trendingNews` | Current news articles and trends related to the company. |
-| `keyHighlights` | Key highlights or achievements of the company. |
-| `location` | Geographical location details of the company. |
-| `est_annual_revenue` | Estimated annual revenue of the company. |
-| `est_employees` | Estimated number of employees working for the company. |
-| `newsPageFeed` | Feed of news articles related to the company. |
-| `statusInfo` | Detailed status information of the company. |
-| `trendingCompanies` | List of currently trending companies in the same sector. |
-| `links` | Relevant links associated with the company. |
-| `DMACode` | Designated Market Area code for regional classification. |
-| `employeeHistory` | Historical data on the company's employee count. |
-| `revenueEmpHistory` | Historical data on revenue and employee metrics. |
-| `revenueHistory` | Historical revenue data of the company. |
-| `parsedRevenueHistory` | Parsed and formatted historical revenue data. |
-
+| `companyId` | Eine eindeutige Kennung für jedes Unternehmen. |
+| `ownership` | Gibt an, ob ein Unternehmen privat oder börsennotiert ist. |
+| `industrySectors` | Listet die Branchensektoren auf, in denen das Unternehmen tätig ist. |
+| `revenue` | Jahresumsatz des Unternehmens in USD. |
+| `founded` | Jahr, in dem das Unternehmen gegründet wurde. |
+| `companyName` | Der offizielle Name des Unternehmens. |
+| `country` | Das Land, in dem das Unternehmen ansässig ist. |
+| `employeeCount` | Gesamtzahl der Mitarbeitenden, die im Unternehmen tätig sind. |
+| `totalAcquisitions` | Die kumulierte Anzahl der vom Unternehmen getätigten Akquisitionen. |
+| `zipcode` | Postleitzahl des primären Standorts des Unternehmens. |
+| `website` | URL der offiziellen Unternehmenswebsite. |
+| `domainName` | Domainname der Website des Unternehmens. |
+| `phoneNumber` | Kontakttelefonnummer des Unternehmens. |
+| `completenessScore` | Bewertung, die die Vollständigkeit des Unternehmensprofils angibt. |
+| `cpLink` | Link zum Unternehmensprofil auf Owler. |
+| `followers` | Anzahl der Follower, die das Unternehmen auf Owler hat. |
+| `shortName` | Eine verkürzte Version des Unternehmensnamens. |
+| `status` | Aktueller Betriebsstatus des Unternehmens. |
+| `summarySection` | Eine kurze Zusammenfassung über das Unternehmen. |
+| `teamName` | Name des Teams oder der Abteilung innerhalb des Unternehmens. |
+| `totalFunding` | Gesamte Finanzierung, die das Unternehmen in USD erhalten hat. |
+| `stripe` | Sonstige Daten in Bezug auf das Unternehmen. |
+| `totalCompetitors` | Anzahl der Unternehmen, die als Wettbewerber betrachtet werden. |
+| `totalFundings` | Gesamtanzahl der Finanzierungsrunden, die das Unternehmen durchlaufen hat. |
+| `totalInvestments` | Gesamtanzahl der vom Unternehmen getätigten Investitionen. |
+| `employeeRange` | Bereich, der die Größe der Belegschaft des Unternehmens angibt. |
+| `revenueRange` | Bereich, der den Umsatz des Unternehmens angibt. |
+| `city` | Stadt, in der sich der Hauptsitz des Unternehmens befindet. |
+| `state` | Bundesland oder Region, in der das Unternehmen tätig ist. |
+| `url` | URL zur Hauptwebseite des Unternehmens. |
+| `street1Address` | Primäre Straßenadresse des Unternehmens. |
+| `CGSectionSEOText` | SEO-Text, der dem CG-Abschnitt des Unternehmens zugeordnet ist. |
+| `description` | Detaillierte Beschreibung des Unternehmens und seiner Tätigkeiten. |
+| `isTopicPage` | Boolean, der angibt, ob es sich bei der Seite um eine Themenseite handelt. |
+| `industries` | Branchen, in denen das Unternehmen tätig ist. |
+| `sicCode` | Standard Industrial Classification-Code des Unternehmens. |
+| `isSEOEligible` | Boolean, der angibt, ob das Unternehmen für SEO geeignet ist. |
+| `cgCompaniesCount` | Anzahl der Unternehmen in derselben Kategorie oder Gruppe. |
+| `formattedEmployeeCount` | Formatierte Darstellung der Mitarbeiterzahl zur besseren Lesbarkeit. |
+| `formattedFollower` | Formatierte Anzahl der Follower für Anzeigezwecke. |
+| `formattedFunding` | Formatierte Darstellung der Gesamtfinanzierung. |
+| `formattedRevenue` | Formatierte Darstellung des Unternehmensumsatzes. |
+| `exchange` | Börse, an der das Unternehmen notiert ist, falls zutreffend. |
+| `ticker` | Börsenticker-Symbol des Unternehmens. |
+| `FundingSectionSEOText` | SEO-Text, der dem Finanzierungsabschnitt des Unternehmens zugeordnet ist. |
+| `recommendedCompanies` | Liste von Unternehmen, die zum Vergleich oder aus Interesse empfohlen werden. |
+| `seoTextMap` | Zuordnung von SEO-Text-Elementen für das Unternehmen. |
+| `cg` | Details oder Klassifizierung der Unternehmensgruppe. |
+| `ceoDetail` | Details zum CEO des Unternehmens. |
+| `companies` | Andere Unternehmen, die mit dem primären Unternehmen in Beziehung stehen oder verknüpft sind. |
+| `companyAcquisitionInfo` | Details zu den vom Unternehmen getätigten Akquisitionen. |
+| `companyFundingInfo` | Informationen zur Finanzierungshistorie und zu Finanzierungsrunden des Unternehmens. |
+| `fundingChartInfo` | Visuelle oder diagrammbasierte Informationen zur Finanzierung. |
+| `leaderShipDetails` | Informationen zum Führungsteam des Unternehmens. |
+| `trendingNews` | Aktuelle Nachrichtenartikel und Trends in Bezug auf das Unternehmen. |
+| `keyHighlights` | Wichtige Highlights oder Erfolge des Unternehmens. |
+| `location` | Details zur geografischen Lage des Unternehmens. |
+| `est_annual_revenue` | Geschätzter Jahresumsatz des Unternehmens. |
+| `est_employees` | Geschätzte Anzahl der Mitarbeitenden, die für das Unternehmen tätig sind. |
+| `newsPageFeed` | Feed mit Nachrichtenartikeln in Bezug auf das Unternehmen. |
+| `statusInfo` | Detaillierte Statusinformationen des Unternehmens. |
+| `trendingCompanies` | Liste aktuell trendender Unternehmen im selben Sektor. |
+| `links` | Relevante Links in Bezug auf das Unternehmen. |
+| `DMACode` | Designated Market Area-Code zur regionalen Klassifizierung. |
+| `employeeHistory` | Historische Daten zur Mitarbeiterzahl des Unternehmens. |
+| `revenueEmpHistory` | Historische Daten zu Umsatz- und Mitarbeitendenkennzahlen. |
+| `revenueHistory` | Historische Umsatzdaten des Unternehmens. |
+| `parsedRevenueHistory` | Geparste und formatierte historische Umsatzdaten. |
 
 ## Use Cases
 
-### 1. Market Research
-Utilize the dataset to analyze industry trends and market positioning of various companies across sectors.
+### 1. Marktforschung
+Nutzen Sie den Datensatz, um Branchentrends und die Marktpositionierung verschiedener Unternehmen über Sektoren hinweg zu analysieren.
 
-### 2. Competitor Analysis
-Identify key competitors and assess their business metrics to strategize effectively in competitive landscapes.
+### 2. Wettbewerbsanalyse
+Identifizieren Sie wichtige Wettbewerber und bewerten Sie deren Geschäftskennzahlen, um in wettbewerbsintensiven Märkten effektiv zu strategisieren.
 
-### 3. Investment Insights
-Gain insights into company financials and funding rounds to make informed investment decisions.
+### 3. Investment-Insights
+Gewinnen Sie Einblicke in Unternehmensfinanzen und Finanzierungsrunden, um fundierte Investitionsentscheidungen zu treffen.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -107,7 +106,7 @@ The dataset is available in multiple formats:
 
 ## Delivery Options
 
-- **Email**
+- **E-Mail**
 - **API Download**
 - **Webhook**
 - **Amazon S3**
@@ -118,8 +117,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Lieferung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -128,14 +127,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Data Points basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Owler Companies dataset](https://brightdata.com/products/datasets/owler)**
+**[Holen Sie sich den vollständigen Owler Companies dataset](https://brightdata.de/products/datasets/owler)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[ready-to-use datasets](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
