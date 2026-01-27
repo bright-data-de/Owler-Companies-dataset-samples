@@ -3,7 +3,7 @@
 <h2>Ein Beispieldatensatz mit 1.030 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Owler-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Owler-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Owler Companies Dataset Sample** umfasst **1.030 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
